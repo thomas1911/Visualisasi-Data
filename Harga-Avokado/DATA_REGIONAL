@@ -1,0 +1,20 @@
+eastern = c("Albany","Atlanta","BaltimoreWashington","Boston",
+            "BuffaloRochester","Chicago","Columbus","Detroit",
+            "GrandRapids","MiamiFtLauderdale","Northeast",
+            "Philadelphia","Pittsburgh","RaleighGreensboro",
+            "SouthCarolina","StLouis"),]
+
+northern = c("Greatlakes","HarrisburgScranton","HartfordSpringfield",
+             "NewYork","Northeast","NorthernNewEngland","Plains",
+             "Seattle","Spokane","Syracuse")
+
+western = c("Boise","Denver","LasVegas","LosAngeles","Portland","SanDiego",
+            "Seattle","Spokane","WestTexNewMexico")
+
+southern = c("California","Charlotte","CincinnatiDayton","DallasFtWorth",
+             "Houston","Indianapolis","Jacksonville","Louisville",
+             "Midsouth","Nashville","NewOrlenasMobile","Orlando",
+             "PhoenixTucson","Plains","RichmondNorfolk","Roanoke",
+             "Sacramento","SanDiego","SouthCarolina","SouthCentral",
+             "StLouis","Tampa","WestTexNewMexico")
+
